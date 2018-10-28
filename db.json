@@ -1,10 +1,17 @@
 {
   "links": [
     {
+      "id": "4AQLLOFz5",
+      "url": "https://news.v.daum.net/v/20181028165706036?f=m",
+      "title": "'등산 마니아' 文대통령, 특별한 산행..기자단과 두 번째 '스킨십'",
+      "desc": "【서울=뉴시스】김태규 기자 = 소문난 '등산 마니아'인 문재인 대통령이 28일 취임 후 두 번째로 출입기자단과 동반 산행을 했다. 오롯이 출입기자단만을 대상으로 한 산행은 사실상 처음이다. 문 대통령은 이날 오전 11시부터 약 90분간 청와대 출입기자단과 함께 청와대 뒤편 북악산 산행을 했다. 삼청각 주변에서 시작해 숙정문과 청운대를 지나 창의문 안내소로",
+      "image": "http://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201810/28/newsis/20181028165706390azus.jpg"
+    },
+    {
       "id": "nVeK3qLNN",
       "url": "https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7",
       "title": "A deep dive into this in JavaScript: why it’s critical to writing good code.",
-      "desc": "",
+      "desc": "Using simple terminology and a real world example, this post explains what this is and why it is useful.",
       "image": "https://cdn-images-1.medium.com/max/1200/1*hVnCdEtqlQvHS1GTXbo5Xw.jpeg"
     },
     {
@@ -17,23 +24,9 @@
     {
       "id": "5rSygwy2Z",
       "url": "https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/",
-      "title": "Gap Year 및 쏘카 이직 이야기",
+      "title": "Gap Year 및 쏘카 이직 이야기 · 어쩐지 오늘은",
       "desc": "",
-      "image": "https://zzsza.github.io/assets/img/logo.png"
-    },
-    {
-      "id": "wxDJa8dZd",
-      "url": "http://m.newsnjoy.or.kr/news/articleView.html?idxno=220533",
-      "title": "법, 도덕 그리고 종교",
-      "desc": "",
-      "image": "http://www.newsnjoy.or.kr/news/photo/201810/220533_76965_644.jpg"
-    },
-    {
-      "id": "kns2xh-de",
-      "url": "https://news.v.daum.net/v/20181028165706036?f=m",
-      "title": "'등산 마니아' 文대통령, 특별한 산행..기자단과 두 번째 '스킨십'",
-      "desc": "",
-      "image": "http://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201810/28/newsis/20181028165706390azus.jpg"
+      "image": "https://thumbs.gfycat.com/MenacingBonyHoatzin-size_restricted.gif"
     }
   ]
 }
