@@ -1,18 +1,11 @@
 {
   "links": [
     {
-      "id": "4AQLLOFz5",
-      "url": "https://news.v.daum.net/v/20181028165706036?f=m",
-      "title": "'등산 마니아' 文대통령, 특별한 산행..기자단과 두 번째 '스킨십' | 다음 뉴스",
-      "desc": "",
-      "image": "https://t1.daumcdn.net/media/news/news2016/m640/tit_daum.png"
-    },
-    {
       "id": "nVeK3qLNN",
       "url": "https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7",
       "title": "A deep dive into this in JavaScript: why it’s critical to writing good code.",
       "desc": "",
-      "image": "https://cdn-images-1.medium.com/letterbox/600/72/50/50/1*wViBNJ1o9rM5p6b-gf3vxg.png?source=logoAvatar-lo_YnCauRmMK2c2---336d898217ee"
+      "image": "https://cdn-images-1.medium.com/max/1200/1*hVnCdEtqlQvHS1GTXbo5Xw.jpeg"
     },
     {
       "id": "8U3JFUUFs",
@@ -24,16 +17,23 @@
     {
       "id": "5rSygwy2Z",
       "url": "https://zzsza.github.io/diary/2018/10/26/gap-year-and-socar/",
-      "title": "Gap Year 및 쏘카 이직 이야기 · 어쩐지 오늘은",
+      "title": "Gap Year 및 쏘카 이직 이야기",
       "desc": "",
-      "image": "https://thumbs.gfycat.com/MenacingBonyHoatzin-size_restricted.gif"
+      "image": "https://zzsza.github.io/assets/img/logo.png"
     },
     {
       "id": "wxDJa8dZd",
       "url": "http://m.newsnjoy.or.kr/news/articleView.html?idxno=220533",
-      "title": "뉴스앤조이 모바일 사이트, 법, 도덕 그리고 종교",
+      "title": "법, 도덕 그리고 종교",
       "desc": "",
-      "image": "http://www.newsnjoy.or.kr/news/photo/mobile/logo.png"
+      "image": "http://www.newsnjoy.or.kr/news/photo/201810/220533_76965_644.jpg"
+    },
+    {
+      "id": "kns2xh-de",
+      "url": "https://news.v.daum.net/v/20181028165706036?f=m",
+      "title": "'등산 마니아' 文대통령, 특별한 산행..기자단과 두 번째 '스킨십'",
+      "desc": "",
+      "image": "http://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/201810/28/newsis/20181028165706390azus.jpg"
     }
   ]
 }

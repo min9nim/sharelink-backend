@@ -6,8 +6,9 @@ const getTitle = async (url) => {
     request(url, function (error, response, body) {
       if (!error) {
         let $ = cheerio.load(body);
-        let title = $("head title").text();
-        let image = $("img").attr("src");
+        //let title = $("head title").text();
+        let title = $("meta[property='og:title']").attr("content");
+        let image = $("meta[property='og:image']").attr("content");
         console.log("title = " + title);
         console.log("image = " + image);
         resolve({ url, title, image });

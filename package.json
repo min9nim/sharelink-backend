@@ -11,9 +11,9 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "dev": "NODE_ENV=dev node server.js",
-    "devmon": "NODE_ENV=dev nodemon server"
+    "start": "node server.js -p $PORT",
+    "dev": "./db-backup.sh && node server.js -p 3030",
+    "devmon": "./db-backup.sh && nodemon server.js -p 3030"
   },
   "author": "",
   "license": "ISC"
