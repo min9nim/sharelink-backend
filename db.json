@@ -1,30 +1,6 @@
 {
   "links": [
     {
-      "url": "https://min9nim.github.io",
-      "title": "blog",
-      "id": "lh1G8uXmB",
-      "createdAt": 1540566276676
-    },
-    {
-      "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
-      "title": "fetch",
-      "id": "7AXZ7rZ7a",
-      "createdAt": 1540566343463
-    },
-    {
-      "url": "https://github.com/typicode/json-server",
-      "title": "json-server",
-      "id": "KSw7xGzIB",
-      "createdAt": 1540566364868
-    },
-    {
-      "url": "https://min9nim.github.io/",
-      "title": "blog",
-      "id": "Z36j-M0r2",
-      "createdAt": 1540566855206
-    },
-    {
       "id": "0d9DlZOKY",
       "url": "https://sports.media.daum.net/sports/photocenter/gallery/?mccid=3570#20181026201003164",
       "title": "김연아",

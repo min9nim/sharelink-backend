@@ -38,6 +38,12 @@ server.post('/get-title', async (req, res) => {
 
 server.use(router)
 let port = process.env.NODE_ENV === "dev" ? 3030 : 80;
+if(process.env.PORT){
+  // GCP에서는 PORT가 환경변수로 전달들어옴
+  port = process.env.PORT;
+}
+
+
 server.listen(port, () => {
   console.log(`JSON Server is running on port(${port})`)
 })
