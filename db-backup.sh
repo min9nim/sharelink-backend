@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "Download http://sharelink-backend.appspot.com/db as db.json"
+echo "Download http://sharelink-jsonserver.appspot.com/db as db.json"
 echo ""
-curl -O http://sharelink-backend.appspot.com/db
+curl -O http://sharelink-jsonserver.appspot.com/db
 mv db db.json
