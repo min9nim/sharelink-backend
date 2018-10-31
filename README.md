@@ -2,7 +2,7 @@
 sharelink 백엔드 서버
 
 #### 기술스택
-json-server
+[json-server](https://github.com/typicode/json-server)
 
 #### REST API
 기능 | method | path
